@@ -6,6 +6,14 @@
  * Notes: Auto-generated metadata block (2025-11-18)
  */
 
+/*
+ * Course: Arduino Programming And Simulation Without Coding
+ * Platform: Arduino
+ * Author: Ashraf S A AlMadhoun
+ * Purpose: Auto-generated metadata block to document the learning goals.
+ * Notes: Auto-generated metadata block (2025-11-18)
+ */
+
 #include <stdio.h> // Include I/O for no-code logs
 
 // Main routine: orchestrates the arduino programming and simulation without coding scenario
